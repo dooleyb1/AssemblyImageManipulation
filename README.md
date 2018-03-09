@@ -3,6 +3,6 @@ ARM Assembly Language programs which perform various image manipulation techniqu
 
 Manipulation Techniques:
 
-* **Brightness and Contrast** - [Adjust.s](https://github.com/dooleyb1/AssemblyImageManipulation/blob/master/Assembly.s)
+* **Brightness and Contrast** - [Adjust.s](https://github.com/dooleyb1/AssemblyImageManipulation/blob/master/Adjust.s)
 * **Motion Blur** -	[MotionBlur.s](https://github.com/dooleyb1/AssemblyImageManipulation/blob/master/MotionBlur.s)
 * **Edge Detection** - [BonusEffect.s](https://github.com/dooleyb1/AssemblyImageManipulation/blob/master/BonusEffect.s)
